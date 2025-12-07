@@ -17,46 +17,53 @@ window.addEventListener("load", () => {
   const resultsEl = document.getElementById("results")
   const buttonEl = document.getElementById("Btn")
 
-    formEl.addEventListener("submit", (event) => {
-    event.preventDefault() 
+  formEl.addEventListener("submit", (event) => {
+    event.preventDefault()
 
-  if (buttonEl.textContent ==="Reset") {
-    inputEl.value = ""
-    resultsEl.innerHTML = ""
-    buttonEl.textContent = "Go"
-    return
-  }
-
-    const query = inputEl.value.trim().toLowerCase();
-
-    resultsEl.innerHTML = ""
-
-    const match = visaData.find(item => item.country.toLowerCase() === query)
-
-        if (!match) {
-      resultsEl.innerHTML = `<div>No results found for "${inputEl.value}".</div>`
-    } else {
-      console.log("Matched object:", match)
-      resultsEl.innerHTML = `
-        <div>
-          <strong>${match.flag ? match.flag + " " : ""}${match.country}</strong><br>
-          Visa requirement: ${match.visaRequired}<br>
-          Travel tip: ${match.travelTip}<br>
-          Embassy link: <a href="${match.embassyLink}" target="_blank" rel="noopener noreferrer">
-  Visit Official Embassy Website
-</a><br>
-        </div>
-      `
+    if (buttonEl.textContent === "Reset") {
+      inputEl.value = ""
+      resultsEl.innerHTML = ""
+      buttonEl.textContent = "Go"
+      return
     }
 
+    const query = inputEl.value.trim().toLowerCase()
+
+    const match = visaData.find(item =>
+      item.country.toLowerCase() === query
+    )
+
+    if (!match) {
+      resultsEl.innerHTML = `<div class="result-card">No results found for "${inputEl.value}".</div>`
+      buttonEl.textContent = "Reset"
+      return
+    }
+
+    resultsEl.innerHTML = `
+      <div class="result-card">
+        <div class="card-title">
+          ${match.flag ? match.flag + " " : ""}${match.country}
+        </div>
+
+        <div class="card-row">
+          <strong>Visa:</strong> ${match.visaRequired}
+        </div>
+
+        <div class="card-row">
+          <strong>Travel Tip:</strong> ${match.travelTip}
+        </div>
+
+        <div class="card-row">
+          <strong>Embassy Link:</strong>
+          <a href="${match.embassyLink}" target="_blank" rel="noopener noreferrer">
+            Visit official website
+          </a>
+        </div>
+      </div>
+    `
     buttonEl.textContent = "Reset"
   })
 })
-
-
-
-
-
 
 
 
