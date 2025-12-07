@@ -3,816 +3,1391 @@
     "country": "Albania",
     "visaRequired": "360 visa-free days",
     "flag": "🇦🇱",
-    "travelTip": "lorem ipsum",
-    "embassyLink": "url"
+    "travelTip": "Explore beyond Tirana and plan time for coastal towns; roads can be winding, so allow extra travel time.",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Algeria",
     "visaRequired": "visa required",
-    "flag": "🇦🇱"
+    "travelTip": "Stick to established tourist routes and arrange local guides in advance for desert or historic site visits.",
+    "flag": "🇩🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Andorra",
-    "visaRequired": "90",
-    "flag": "🇦🇱"
+    "visaRequired": "9 visa-free days",
+    "travelTip": "Weather can change quickly in the Pyrenees; pack layers and proper shoes for mountain walks.",
+    "flag": "🇦🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Angola",
-    "visaRequired": "30",
-    "flag": "🇦🇱"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Pre-book airport transfers and confirm recommended visitor neighborhoods with your hotel.",
+    "flag": "🇦🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Antigua and Barbuda",
-    "visaRequired": "180",
-    "flag": "🇦🇱"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Sun exposure can be intense; bring reef-safe sunscreen, a hat, and stay hydrated at the beach.",
+    "flag": "🇦🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Argentina",
-    "visaRequired": "90",
-    "flag": "🇦🇱"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "In Buenos Aires, keep bags secured and avoid using your phone near busy street intersections.",
+    "flag": "🇦🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Armenia",
-    "visaRequired": "180",
-    "flag": "🇦🇱"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Many attractions are outside cities, so plan transportation in advance or book organized day tours.",
+    "flag": "🇦🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Australia",
     "visaRequired": "eta",
-    "flag": "🇦🇱"
+    "travelTip": "Distances are huge between destinations; do not underestimate long driving or flight times.",
+    "flag": "🇦🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Austria",
-    "visaRequired": "90",
-    "flag": "🇦🇱"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Use trains and trams instead of renting a car in major cities for easier navigation.",
+    "flag": "🇦🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Azerbaijan",
     "visaRequired": "e-visa",
-    "flag": "🇦🇱"
+    "travelTip": "Old City streets in Baku can be narrow and cobbled; wear comfortable walking shoes.",
+    "flag": "🇦🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bahamas",
-    "visaRequired": "240",
-    "flag": "🇦🇱"
+    "visaRequired": "240 visa-free days",
+    "travelTip": "Protect yourself from strong sun exposure and drink plenty of water during island activities.",
+    "flag": "🇧🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bahrain",
     "visaRequired": "visa on arrival",
-    "flag": "🇦🇱"
+    "travelTip": "Dress modestly in public and avoid photographing government or security buildings.",
+    "flag": "🇧🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bangladesh",
     "visaRequired": "visa on arrival",
-    "flag": "🇦🇱"
+    "travelTip": "Traffic congestion is common; allow extra time when traveling across cities like Dhaka.",
+    "flag": "🇧🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Barbados",
-    "visaRequired": "180",
-    "flag": "🇦🇱"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Use hotel-recommended taxis at night and avoid walking alone after dark.",
+    "flag": "🇧🇧",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Belarus",
     "visaRequired": "visa required",
-    "flag": "🇦🇱"
+    "travelTip": "Always keep your passport and registration papers accessible while traveling between cities.",
+    "flag": "🇧🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Belgium",
-    "visaRequired": "90",
-    "flag": "🇦🇱"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Stay near a major train station so you can easily take day trips to nearby cities.",
+    "flag": "🇧🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Belize",
-    "visaRequired": "180",
-    "flag": "🇦🇱"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Book snorkeling and diving trips through licensed operators to protect coral reefs.",
+    "flag": "🇧🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Benin",
     "visaRequired": "e-visa",
-    "flag": "🇦🇱"
+    "travelTip": "If using motorcycle taxis, always agree on the fare before starting your ride.",
+    "flag": "🇧🇯",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bhutan",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Altitude and hills can be tiring, so pace your sightseeing schedule slowly.",
+    "flag": "🇧🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bolivia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "High altitude in La Paz can cause fatigue; take your first day slow and hydrate often.",
+    "flag": "🇧🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bosnia and Herzegovina",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Historic streets can be slippery when wet; wear shoes with good traction.",
+    "flag": "🇧🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Botswana",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Safari lodges often have limited Wi-Fi, so notify family before heading into parks.",
+    "flag": "🇧🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Brazil",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Carry only essentials during daily outings and store extra valuables in your hotel safe.",
+    "flag": "🇧🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Brunei",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Public behavior is conservative; avoid revealing clothing and loud public conduct.",
+    "flag": "🇧🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Bulgaria",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Outside large cities, English may be limited, so learning basic phrases is helpful.",
+    "flag": "🇧🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Burkina Faso",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Markets can be busy and lively; keep your belongings secured and carry only what you need for the day.",
+    "flag": "🇧🇫",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Burundi",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Confirm domestic transportation locally rather than relying only on online schedules.",
+    "flag": "🇧🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Cambodia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "When visiting temples, cover shoulders and knees and bring a light scarf for quick adjustments.",
+    "flag": "🇰🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Cameroon",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Road conditions vary widely, so plan intercity travel during daylight hours.",
+    "flag": "🇨🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Canada",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Weather can shift suddenly, especially in winter; pack proper layers and waterproof footwear.",
+    "flag": "🇨🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Cape Verde",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Island ferry schedules may change with weather, so keep buffer time between connections.",
+    "flag": "🇨🇻",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Central African Republic",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel logistics are best arranged through trusted local contacts or tour operators.",
+    "flag": "🇨🇫",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Chad",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Long-distance road travel can take hours; carry extra water and snacks for the journey.",
+    "flag": "🇹🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Chile",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Prepare for very different climates when traveling between northern deserts and southern fjords.",
+    "flag": "🇨🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "China",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Download local map and translation apps in advance, as many Western apps do not function normally.",
+    "flag": "🇨🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Colombia",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Use official taxis or trusted ride-share apps from airports and nightlife districts.",
+    "flag": "🇨🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Comoros",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Tourism infrastructure is limited outside main towns, so bring essential supplies with you.",
+    "flag": "🇰🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Congo",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Arrange airport transfers in advance and confirm hotel pickup whenever possible.",
+    "flag": "🇨🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "DR Congo",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Follow guidance from licensed tour operators closely when traveling outside major cities.",
+    "flag": "🇨🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Costa Rica",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Wildlife is abundant; admire animals from a safe distance and stay on marked trails.",
+    "flag": "🇨🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ivory Coast",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "Traffic in Abidjan can be heavy, so allow extra time for airport and meeting transfers.",
+    "flag": "🇨🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Croatia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Summer crowds increase along the coast, so book ferries and hotels early.",
+    "flag": "🇭🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Cuba",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Internet access can be limited, so download maps and reservations for offline use.",
+    "flag": "🇨🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Cyprus",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Midday temperatures can be intense in summer; plan outdoor sightseeing for mornings or evenings.",
+    "flag": "🇨🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Czech Republic",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Historic streets can be uneven, so pack comfortable walking shoes.",
+    "flag": "🇨🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Denmark",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Cyclists have right of way on many roads, so always check bike lanes before crossing.",
+    "flag": "🇩🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Djibouti",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Extreme heat is common, so carry water at all times and avoid midday sun exposure.",
+    "flag": "🇩🇯",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Dominica",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Hiking trails can be steep and muddy; use sturdy footwear and check weather conditions first.",
+    "flag": "🇩🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Dominican Republic",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Use transportation arranged through your hotel or trusted local providers.",
+    "flag": "🇩🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ecuador",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "You may experience coastal heat and mountain cold in the same trip, so pack for layered weather.",
+    "flag": "🇪🇨",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Egypt",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "At major attractions, agree on prices for guides, camel rides, or boat trips before starting.",
+    "flag": "🇪🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "El Salvador",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Ask your hotel which neighborhoods are best for visitors and use their recommended taxi services.",
+    "flag": "🇸🇻",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Equatorial Guinea",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Facilities outside major areas are limited, so confirm lodging and transport before arrival.",
+    "flag": "🇬🇶",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Eritrea",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Online information can be limited; verify travel details directly with your accommodation.",
+    "flag": "🇪🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Estonia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Digital payments are widely accepted, but keep a small amount of cash for rural areas.",
+    "flag": "🇪🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Swaziland",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Scenic drives are common; watch for livestock or wildlife on roads at dusk.",
+    "flag": "🇸🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ethiopia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Coffee ceremonies are an important tradition; take time to enjoy the experience if invited.",
+    "flag": "🇪🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Fiji",
-    "visaRequired": "120"
+    "visaRequired": "120 visa-free days",
+    "travelTip": "Island schedules can be flexible, so plan with extra buffer time for activities and transport.",
+    "flag": "🇫🇯",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Finland",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Winter daylight hours are short, so plan sightseeing earlier in the day during colder months.",
+    "flag": "🇫🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "France",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Slow down for café culture, museum visits, scenic walks, and long, leisurely meals.",
+    "flag": "🇫🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Gabon",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "National parks are remote; bring personal medications and essentials for wildlife excursions.",
+    "flag": "🇬🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Gambia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Coastal areas are sunny year-round, so use strong sun protection and hydrate frequently.",
+    "flag": "🇬🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Georgia",
-    "visaRequired": "360"
+    "visaRequired": "360 visa-free days",
+    "travelTip": "Mountain weather changes quickly, so check forecasts before traveling into higher elevations.",
+    "flag": "🇬🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Germany",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Small shops may still prefer cash, so carry some euros even if you use a credit card.",
+    "flag": "🇩🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ghana",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Urban traffic can be heavy, so start early for appointments and airport transfers.",
+    "flag": "🇬🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Greece",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Strong winds may delay island ferries, so keep some flexibility in your travel schedule.",
+    "flag": "🇬🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Grenada",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Narrow coastal roads have sharp turns; use caution when renting and driving a car.",
+    "flag": "🇬🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Guatemala",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Use hotel safes for valuables and carry only what you need when visiting markets.",
+    "flag": "🇬🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Guinea",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Infrastructure outside cities can be basic, so confirm lodging and transport in advance.",
+    "flag": "🇬🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Guinea-Bissau",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Daily schedules are relaxed, so keep your itinerary flexible and reconfirm plans locally.",
+    "flag": "🇬🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Guyana",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Heavy rain can affect rural roads, so check local conditions before long drives.",
+    "flag": "🇬🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Haiti",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Stay in close contact with your accommodation for real-time advice on getting around safely.",
+    "flag": "🇭🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Honduras",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Use trusted operators for island excursions and follow hotel guidance for evening outings.",
+    "flag": "🇭🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Hong Kong",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Public transportation is highly efficient; consider getting a rechargeable transit card.",
+    "flag": "🇭🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Hungary",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Many attractions are within walking distance, so pack comfortable shoes for exploring.",
+    "flag": "🇭🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Iceland",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Weather can change rapidly even in summer; always check road and weather conditions before driving.",
+    "flag": "🇮🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "India",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Carry some cash for small shops and take time to explore neighborhoods on foot for the best local experience.",
+    "flag": "🇮🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Indonesia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "When island-hopping, confirm boat safety standards and check weather conditions before departure.",
+    "flag": "🇮🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Iran",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Dress modestly in public spaces and be mindful of local customs in both cities and smaller towns.",
+    "flag": "🇮🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Iraq",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Travel is best arranged through trusted local contacts and experienced guides.",
+    "flag": "🇮🇶",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ireland",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Rain showers are common year-round, so carry a light waterproof jacket even in summer.",
+    "flag": "🇮🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Israel",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Security checks are routine at transit hubs; allow extra time at airports and major stations.",
+    "flag": "🇮🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Italy",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Book tickets for popular attractions in advance to avoid long lines during peak season.",
+    "flag": "🇮🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Jamaica",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Use registered taxis or hotel-arranged drivers, especially when traveling at night.",
+    "flag": "🇯🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Japan",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Public trash cans are limited; carry a small bag for personal waste while sightseeing.",
+    "flag": "🇯🇵",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Jordan",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Desert days are hot and nights are cool, so pack layers and carry plenty of water.",
+    "flag": "🇯🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kazakhstan",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "City districts can be far apart, so plan your daily routes carefully to save time.",
+    "flag": "🇰🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kenya",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "On safari, follow your guide’s instructions at all times and never approach wildlife.",
+    "flag": "🇰🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kiribati",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Remote islands have limited services, so carry essential supplies and medications.",
+    "flag": "🇰🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kosovo",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Cash is often preferred in small shops, so keep small bills handy.",
+    "flag": "🇽🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kuwait",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Public life is conservative; dress modestly and avoid loud behavior in shared spaces.",
+    "flag": "🇰🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Kyrgyzstan",
-    "visaRequired": "60"
+    "visaRequired": "360 visa-free days",
+    "travelTip": "Mountain trekking is popular, but local guides are recommended in remote regions.",
+    "flag": "🇰🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Laos",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Warm, humid weather is common, so wear breathable clothing and use insect repellent.",
+    "flag": "🇱🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Latvia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Old Town streets can be icy in winter, so bring shoes with good traction.",
+    "flag": "🇱🇻",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Lebanon",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Traffic congestion is common in Beirut; allow extra time for short-distance travel.",
+    "flag": "🇱🇧",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Lesotho",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "At higher elevations, temperatures drop quickly after sunset, even in summer.",
+    "flag": "🇱🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Liberia",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel between cities is best done during daylight due to road conditions.",
+    "flag": "🇱🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Libya",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Conditions can change quickly; always review current travel guidance before planning.",
+    "flag": "🇱🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Liechtenstein",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Hiking routes are well marked, but check trail difficulty and weather before setting out.",
+    "flag": "🇱🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Lithuania",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Winters can be icy and dark, so carry reflective gear when walking at night.",
+    "flag": "🇱🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Luxembourg",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Public transportation is efficient and often free, making it easy to explore without a car.",
+    "flag": "🇱🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Macao",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Nightlife areas can be crowded, so keep personal belongings secure in busy entertainment zones.",
+    "flag": "🇲🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Madagascar",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Insect repellent is essential, especially when visiting rainforests or rural regions.",
+    "flag": "🇲🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Malawi",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Lake activities are popular; follow local guidance on safe swimming and boating areas.",
+    "flag": "🇲🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Malaysia",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Air-conditioning indoors can feel very strong, so carry a light sweater for malls and transit.",
+    "flag": "🇲🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Maldives",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Inter-island transfers may depend on weather, so allow buffer time between flights.",
+    "flag": "🇲🇻",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mali",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel plans may change quickly; confirm routes and accommodations shortly before departure.",
+    "flag": "🇲🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Malta",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Strong summer sun is common, so plan outdoor sightseeing for cooler morning hours.",
+    "flag": "🇲🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Marshall Islands",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Connectivity can be limited on outer islands, so download important information offline.",
+    "flag": "🇲🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mauritania",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Desert climates mean large temperature swings; carry sun protection by day and layers at night.",
+    "flag": "🇲🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mauritius",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Snorkeling areas are popular; use reef-safe sunscreen to protect marine life.",
+    "flag": "🇲🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mexico",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Mix ancient history, colorful streets, and relaxed afternoons in local plazas.",
+    "flag": "🇲🇽",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Micronesia",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Flight schedules between islands can shift, so reconfirm travel times locally.",
+    "flag": "🇫🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Moldova",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Local buses and minibuses are frequent, so carry small bills for fares.",
+    "flag": "🇲🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Monaco",
-    "visaRequired": "90"
+    "visaRequired": "90",
+    "travelTip": "The city is compact and walkable, but expect steep streets and stairways.",
+    "flag": "🇲🇨",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mongolia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Outside major cities, distances are long and services sparse; travel with experienced drivers.",
+    "flag": "🇲🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Montenegro",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Coastal roads are narrow and winding, so allow extra time when driving between towns.",
+    "flag": "🇲🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Morocco",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Bargaining is common in markets; keep negotiations friendly and unhurried.",
+    "flag": "🇲🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Mozambique",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Beach currents can be strong, so swim only in areas advised as safe by locals.",
+    "flag": "🇲🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Myanmar",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "ATMs may not work reliably outside large cities, so carry sufficient cash.",
+    "flag": "🇲🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Namibia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Remote driving requires fuel planning, as gas stations can be far apart.",
+    "flag": "🇳🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Nauru",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Facilities are limited, so plan accommodation and transport well in advance.",
+    "flag": "🇧🇯",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Nepal",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "When trekking, allow time for altitude acclimatization to avoid illness.",
+    "flag": "🇳🇵",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Netherlands",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Cycling is widespread; always check bike lanes before stepping into the street.",
+    "flag": "🇳🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "New Zealand",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "Outdoor trails are well marked, but always check weather conditions before setting out.",
+    "flag": "🇳🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Nicaragua",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Ask your accommodation which neighborhoods are best for walking and which to visit by taxi.",
+    "flag": "🇳🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Niger",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Outdoor activities are best planned for early morning or late afternoon due to extreme heat.",
+    "flag": "🇳🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Nigeria",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Use drivers or transport arranged through your hotel rather than hailing taxis on the street.",
+    "flag": "🇳🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "North Korea",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel is tightly controlled; always follow your guide’s instructions without exception.",
+    "flag": "🇰🇵",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "North Macedonia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Local cafés are popular social spots; carrying small cash is useful for quick stops.",
+    "flag": "🇲🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Norway",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Cold winds can be strong near the coast, so pack windproof outer layers year-round.",
+    "flag": "🇳🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Oman",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Respect modest dress standards, especially when visiting mosques or rural communities.",
+    "flag": "🇴🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Pakistan",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "Mountain travel is scenic but slow; allow extra buffer days in your itinerary.",
+    "flag": "🇵🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Palau",
-    "visaRequired": "360"
+    "visaRequired": "360 visa-free days",
+    "travelTip": "Diving and snorkeling rules are strictly enforced to protect coral ecosystems.",
+    "flag": "🇵🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Palestine",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Checkpoint delays are possible, so allow extra time when traveling between areas.",
+    "flag": "🇵🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Panama",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Sudden rain showers are common, so carry lightweight rain protection when sightseeing.",
+    "flag": "🇵🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Papua New Guinea",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "Travel between towns is often by air, so reconfirm flights close to departure.",
+    "flag": "🇵🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Paraguay",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "English is less common; basic Spanish phrases greatly improve daily interactions.",
+    "flag": "🇵🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Peru",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "High-altitude destinations require slow pacing and plenty of hydration on arrival.",
+    "flag": "🇵🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Philippines",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Pack waterproof bags for electronics when traveling by boat between islands.",
+    "flag": "🇵🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Poland",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Public transport is reliable and affordable; validate your ticket before boarding.",
+    "flag": "🇵🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Portugal",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Hilly streets and cobblestones are common, so bring supportive walking shoes.",
+    "flag": "🇵🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Qatar",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Air-conditioned indoor spaces can feel cold compared to outdoor heat; carry a light layer.",
+    "flag": "🇶🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Romania",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Mountain regions can cool rapidly at night, even in summer; pack warm layers.",
+    "flag": "🇷🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Russia",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Keep migration cards and hotel registration documents with your passport at all times.",
+    "flag": "🇷🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Rwanda",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Gorilla trekking permits are limited; secure your reservation well in advance.",
+    "flag": "🇷🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Saint Kitts and Nevis",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Driving is on the left, so take time to adjust if renting a car.",
+    "flag": "🇰🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Saint Lucia",
-    "visaRequired": "42"
+    "visaRequired": "42 visa-free days",
+    "travelTip": "Mountain roads are steep and narrow; experienced drivers are recommended for excursions.",
+    "flag": "🇱🇨",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Samoa",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Many services reduce hours on Sundays, so plan shopping and travel in advance.",
+    "flag": "🇼🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "San Marino",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "The historic center sits at a high elevation, so expect uphill walking throughout your visit.",
+    "flag": "🇸🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Sao Tome and Principe",
-    "visaRequired": "15"
+    "visaRequired": "15 visa-free days",
+    "travelTip": "Transportation and lodging options are limited, so confirm all reservations before arrival.",
+    "flag": "🇸🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Saudi Arabia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Public dress is modest and alcohol is restricted; follow local regulations carefully.",
+    "flag": "🇸🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Senegal",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Lively markets can be crowded, so keep personal belongings secured at all times.",
+    "flag": "🇸🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Serbia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Tap water is generally safe in cities, but always confirm with your accommodation if unsure.",
+    "flag": "🇷🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Seychelles",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Ocean currents can be strong in certain areas; follow posted swimming advice at beaches.",
+    "flag": "🇸🇨",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Sierra Leone",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Road conditions vary, so plan intercity travel during daylight hours for safety.",
+    "flag": "🇸🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Singapore",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Strict rules apply for littering and public behavior; follow posted signs to avoid fines.",
+    "flag": "🇸🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Slovakia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Mountain weather can change quickly, so check forecasts before outdoor excursions.",
+    "flag": "🇸🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Slovenia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Popular natural attractions are busiest midday; visit early for a quieter experience.",
+    "flag": "🇸🇮",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Solomon Islands",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Remote islands have limited medical facilities, so carry essential medications with you.",
+    "flag": "🇸🇧",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Somalia",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Conditions can be unpredictable; always check the latest travel guidance before planning.",
+    "flag": "🇸🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "South Africa",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Keep car doors locked while driving and avoid leaving bags visible on seats.",
+    "flag": "🇿🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "South Korea",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Rechargeable transit cards make city travel quick and convenient.",
+    "flag": "🇰🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "South Sudan",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Travel requires careful coordination through trusted organizations and contacts.",
+    "flag": "🇸🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Spain",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Take time to enjoy seaside walks, lively plazas, late dinners, and the easy rhythm of everyday life.",
+    "flag": "🇪🇸",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Sri Lanka",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Train services on scenic routes sell out fast; book seats in advance when possible.",
+    "flag": "🇱🇰",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Saint Vincent and the Grenadines",
-    "visaRequired": "180"
+    "visaRequired": "180 visa-free days",
+    "travelTip": "Inter-island boat schedules can vary by weather, so build flexibility into travel plans.",
+    "flag": "🇻🇨",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Sudan",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Always review current travel conditions and trusted advisories before arranging trips.",
+    "flag": "🇸🇩",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Suriname",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel into rainforest regions should be done with licensed local guides.",
+    "flag": "🇸🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Sweden",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Short winter daylight hours mean outdoor sightseeing should start early.",
+    "flag": "🇸🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Switzerland",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Mountain weather shifts rapidly; carry layers even in summer.",
+    "flag": "🇨🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Syria",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Travel conditions are highly unstable; consult official guidance before any planning.",
+    "flag": "🇸🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Taiwan",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Typhoon season can affect transport; monitor weather updates closely.",
+    "flag": "🇹🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Tajikistan",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "High mountain roads are narrow; local drivers with terrain experience are recommended.",
+    "flag": "🇹🇯",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Tanzania",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Evenings on safari can be cool, so pack lightweight warm clothing.",
+    "flag": "🇹🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Thailand",
-    "visaRequired": "60"
+    "visaRequired": "60 visa-free days",
+    "travelTip": "Street food is popular and delicious; choose busy stalls with high turnover for freshness.",
+    "flag": "🇹🇭",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Timor-Leste",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Road infrastructure is still developing, so allow extra travel time between locations.",
+    "flag": "🇹🇱",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Togo",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Evening travel outside major areas is best done with trusted drivers or guides.",
+    "flag": "🇹🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Tonga",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Most businesses close on Sundays for church and family time, so plan shopping in advance.",
+    "flag": "🇹🇴",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Trinidad and Tobago",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Carnival season brings large crowds and higher prices, so book flights and hotels early.",
+    "flag": "🇹🇹",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Tunisia",
-    "visaRequired": "120"
+    "visaRequired": "120 visa-free days",
+    "travelTip": "Markets are lively and colorful; keep small change handy and watch your belongings.",
+    "flag": "🇹🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Turkmenistan",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Independent travel can be limited, so organized tours help simplify logistics.",
+    "flag": "🇹🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Tuvalu",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Flights are infrequent and services limited, so plan connections and supplies carefully.",
+    "flag": "🇹🇻",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Turkey",
-    "visaRequired": "visa free"
+    "visaRequired": "visa free",
+    "travelTip": "Major historic sites are busiest midday, so arrive early for a quieter experience.",
+    "flag": "🇹🇷",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Uganda",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "National parks require permits for certain activities, so secure them ahead of time.",
+    "flag": "🇺🇬",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Ukraine",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Travel conditions can vary by region, so always check local guidance before moving between cities.",
+    "flag": "🇺🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "United Arab Emirates",
-    "visaRequired": "30"
+    "visaRequired": "30 visa-free days",
+    "travelTip": "Air-conditioned indoor spaces can feel cold, so bring a light layer even in hot weather.",
+    "flag": "🇦🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "United Kingdom",
-    "visaRequired": "eta"
+    "visaRequired": "eta",
+    "travelTip": "Public transit is widespread and reliable; contactless cards work on most buses and trains.",
+    "flag": "🇬🇧",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "United States",
-    "visaRequired": "-1"
+    "visaRequired": "This is Home",
+    "flag": "🇺🇸"
   },
   {
     "country": "Uruguay",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Coastal promenades are perfect for walks, so pack casual shoes for seaside strolls.",
+    "flag": "🇺🇾",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Uzbekistan",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Historic city centers involve lots of walking on stone streets, so wear cushioned footwear.",
+    "flag": "🇺🇿",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Vanuatu",
-    "visaRequired": "120"
+    "visaRequired": "120 visa-free days",
+    "travelTip": "Inter-island travel depends heavily on weather, so keep schedules flexible.",
+    "flag": "🇻🇺",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Vatican",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Dress codes apply inside religious buildings, so cover shoulders and knees.",
+    "flag": "🇻🇦",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Venezuela",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Daily conditions can change quickly, so rely on trusted local advice for outings.",
+    "flag": "🇻🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Vietnam",
-    "visaRequired": "e-visa"
+    "visaRequired": "e-visa",
+    "travelTip": "Cross streets slowly and steadily to allow motorbikes to flow around you.",
+    "flag": "🇻🇳",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Yemen",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Travel requires extreme caution and constant monitoring of official guidance.",
+    "flag": "🇾🇪",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Zambia",
-    "visaRequired": "90"
+    "visaRequired": "90 visa-free days",
+    "travelTip": "Mist from major waterfalls can make walkways slippery, so wear shoes with good grip.",
+    "flag": "🇿🇲",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Zimbabwe",
-    "visaRequired": "visa on arrival"
+    "visaRequired": "visa on arrival",
+    "travelTip": "Cash availability can fluctuate, so carry small U.S. dollar bills as backup.",
+    "flag": "🇿🇼",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   },
   {
     "country": "Afghanistan",
-    "visaRequired": "visa required"
+    "visaRequired": "visa required",
+    "travelTip": "Security conditions can change rapidly, so always follow current official travel advisories.",
+    "flag": "🇦🇫",
+    "embassyLink": "https://ambasadat.gov.al/usa/en/"
   }
 ]

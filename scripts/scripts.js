@@ -33,7 +33,7 @@ window.addEventListener("load", () => {
 
     const match = visaData.find(item => item.country.toLowerCase() === query)
 
-    if (!match) {
+        if (!match) {
       resultsEl.innerHTML = `<div>No results found for "${inputEl.value}".</div>`
     } else {
       console.log("Matched object:", match)
@@ -42,7 +42,9 @@ window.addEventListener("load", () => {
           <strong>${match.flag ? match.flag + " " : ""}${match.country}</strong><br>
           Visa requirement: ${match.visaRequired}<br>
           Travel tip: ${match.travelTip}<br>
-          Embassy link: ${match.embassyLink}<br>
+          Embassy link: <a href="${match.embassyLink}" target="_blank" rel="noopener noreferrer">
+  Visit Official Embassy Website
+</a><br>
         </div>
       `
     }
