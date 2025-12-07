@@ -1,0 +1,818 @@
+[
+  {
+    "country": "Albania",
+    "visaRequired": "360 visa-free days",
+    "flag": "🇦🇱",
+    "travelTip": "lorem ipsum",
+    "embassyLink": "url"
+  },
+  {
+    "country": "Algeria",
+    "visaRequired": "visa required",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Andorra",
+    "visaRequired": "90",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Angola",
+    "visaRequired": "30",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "visaRequired": "180",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Argentina",
+    "visaRequired": "90",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Armenia",
+    "visaRequired": "180",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Australia",
+    "visaRequired": "eta",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Austria",
+    "visaRequired": "90",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Azerbaijan",
+    "visaRequired": "e-visa",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Bahamas",
+    "visaRequired": "240",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Bahrain",
+    "visaRequired": "visa on arrival",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Bangladesh",
+    "visaRequired": "visa on arrival",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Barbados",
+    "visaRequired": "180",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Belarus",
+    "visaRequired": "visa required",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Belgium",
+    "visaRequired": "90",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Belize",
+    "visaRequired": "180",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Benin",
+    "visaRequired": "e-visa",
+    "flag": "🇦🇱"
+  },
+  {
+    "country": "Bhutan",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Bolivia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Botswana",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Brazil",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Brunei",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Bulgaria",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Burkina Faso",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Burundi",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Cambodia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Cameroon",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Canada",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Cape Verde",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Central African Republic",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Chad",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Chile",
+    "visaRequired": "90"
+  },
+  {
+    "country": "China",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Colombia",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Comoros",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Congo",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "DR Congo",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Costa Rica",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Ivory Coast",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "Croatia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Cuba",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Cyprus",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Czech Republic",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Denmark",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Djibouti",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Dominica",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Dominican Republic",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Ecuador",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Egypt",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "El Salvador",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Eritrea",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Estonia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Swaziland",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Ethiopia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Fiji",
+    "visaRequired": "120"
+  },
+  {
+    "country": "Finland",
+    "visaRequired": "90"
+  },
+  {
+    "country": "France",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Gabon",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Gambia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Georgia",
+    "visaRequired": "360"
+  },
+  {
+    "country": "Germany",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Ghana",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Greece",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Grenada",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Guatemala",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Guinea",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Guyana",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Haiti",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Honduras",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Hong Kong",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Hungary",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Iceland",
+    "visaRequired": "90"
+  },
+  {
+    "country": "India",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Indonesia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Iran",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Iraq",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Ireland",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Israel",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Italy",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Jamaica",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Japan",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Jordan",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Kazakhstan",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Kenya",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "Kiribati",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Kosovo",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Kuwait",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "visaRequired": "60"
+  },
+  {
+    "country": "Laos",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Latvia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Lebanon",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Lesotho",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Liberia",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Libya",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Liechtenstein",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Lithuania",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Luxembourg",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Macao",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Madagascar",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Malawi",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Malaysia",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Maldives",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Mali",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Malta",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Marshall Islands",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Mauritania",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Mauritius",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Mexico",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Micronesia",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Moldova",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Monaco",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Mongolia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Montenegro",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Morocco",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Mozambique",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Myanmar",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Namibia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Nauru",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Nepal",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Netherlands",
+    "visaRequired": "90"
+  },
+  {
+    "country": "New Zealand",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "Nicaragua",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Niger",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Nigeria",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "North Korea",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "North Macedonia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Norway",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Oman",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Pakistan",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "Palau",
+    "visaRequired": "360"
+  },
+  {
+    "country": "Palestine",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Panama",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Papua New Guinea",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "Paraguay",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Peru",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Philippines",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Poland",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Portugal",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Qatar",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Romania",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Russia",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Rwanda",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Saint Lucia",
+    "visaRequired": "42"
+  },
+  {
+    "country": "Samoa",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "San Marino",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "visaRequired": "15"
+  },
+  {
+    "country": "Saudi Arabia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Senegal",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Serbia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Seychelles",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Sierra Leone",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Singapore",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Slovakia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Slovenia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Solomon Islands",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Somalia",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "South Africa",
+    "visaRequired": "90"
+  },
+  {
+    "country": "South Korea",
+    "visaRequired": "90"
+  },
+  {
+    "country": "South Sudan",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Spain",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Sri Lanka",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "visaRequired": "180"
+  },
+  {
+    "country": "Sudan",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Suriname",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Sweden",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Switzerland",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Syria",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Taiwan",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Tajikistan",
+    "visaRequired": "30"
+  },
+  {
+    "country": "Tanzania",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Thailand",
+    "visaRequired": "60"
+  },
+  {
+    "country": "Timor-Leste",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Togo",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Tonga",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Tunisia",
+    "visaRequired": "120"
+  },
+  {
+    "country": "Turkmenistan",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Tuvalu",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Turkey",
+    "visaRequired": "visa free"
+  },
+  {
+    "country": "Uganda",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Ukraine",
+    "visaRequired": "90"
+  },
+  {
+    "country": "United Arab Emirates",
+    "visaRequired": "30"
+  },
+  {
+    "country": "United Kingdom",
+    "visaRequired": "eta"
+  },
+  {
+    "country": "United States",
+    "visaRequired": "-1"
+  },
+  {
+    "country": "Uruguay",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Uzbekistan",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Vanuatu",
+    "visaRequired": "120"
+  },
+  {
+    "country": "Vatican",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Venezuela",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Vietnam",
+    "visaRequired": "e-visa"
+  },
+  {
+    "country": "Yemen",
+    "visaRequired": "visa required"
+  },
+  {
+    "country": "Zambia",
+    "visaRequired": "90"
+  },
+  {
+    "country": "Zimbabwe",
+    "visaRequired": "visa on arrival"
+  },
+  {
+    "country": "Afghanistan",
+    "visaRequired": "visa required"
+  }
+]

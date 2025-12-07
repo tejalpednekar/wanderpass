@@ -1,3 +1,97 @@
+let visaData = []
+
+window.addEventListener("load", () => {
+
+  fetch("data/data.json")
+    .then(res => {
+      console.log("Fetch status:", res.status)
+      return res.json()
+    })
+    .then(data => {
+      visaData = data
+    })
+    .catch(err => console.error("Fetch error:", err))
+
+  const formEl = document.getElementById("form")
+  const inputEl = document.getElementById("searchBox")
+  const resultsEl = document.getElementById("results")
+  const buttonEl = document.getElementById("Btn")
+
+    formEl.addEventListener("submit", (event) => {
+    event.preventDefault() 
+
+  if (buttonEl.textContent ==="Reset") {
+    inputEl.value = ""
+    resultsEl.innerHTML = ""
+    buttonEl.textContent = "Go"
+    return
+  }
+
+    const query = inputEl.value.trim().toLowerCase();
+
+    resultsEl.innerHTML = ""
+
+    const match = visaData.find(item => item.country.toLowerCase() === query)
+
+    if (!match) {
+      resultsEl.innerHTML = `<div>No results found for "${inputEl.value}".</div>`
+    } else {
+      console.log("Matched object:", match)
+      resultsEl.innerHTML = `
+        <div>
+          <strong>${match.flag ? match.flag + " " : ""}${match.country}</strong><br>
+          Visa requirement: ${match.visaRequired}<br>
+          Travel tip: ${match.travelTip}<br>
+          Embassy link: ${match.embassyLink}<br>
+        </div>
+      `
+    }
+
+    buttonEl.textContent = "Reset"
+  })
+})
+
+
+
+
+
+
+
+
+
+
+
+/*let visaData;
+
+window.addEventListener("load", () => {
+  fetch("data.json")
+  .then(response => response.json())
+  .then(data => { 
+    visaData = data;
+  })
+  .catch(error => console.log(error));
+}); 
+
+let inputEl = document.querySelector('input');
+let buttonEl = document.querySelector('button');
+let headingEl = document.querySelector(#result);
+
+buttonEl.addEventListener("click", () => {
+  let value = inputEl.value.trim().toLowerCase();
+
+  let user = visaData.find(
+    item => item.country.toLowerCase() === value
+  );
+
+  if (!user) {
+    headingEl.textContent = "Not Found";
+  } else {
+    headingEl.textContent = `${user.country}: ${user.visaRequired}`;
+  }
+});
+
+
+
 
 /*
 
@@ -35,3 +129,7 @@ If a match is found, it will display all five fields including the clickable emb
 If a match is not found, it will display a “Country Not Found” message.
 
 */
+
+
+
+  
