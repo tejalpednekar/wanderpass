@@ -110,6 +110,7 @@ header h2 {
     margin-top: 2rem;
 }
 
+
 #form {
     display: flex;
     background-color: rgba(255, 255, 255, 0.15);;
@@ -307,15 +308,22 @@ div .about-info {
         object-fit: cover;
     }
 
-    nav ul li {
+nav ul li {
         font-size: 1rem;
     }
 
-    header h2 {
+header h2 {
         font-size: 1rem;
     }
 
-    #form input {
+#form {
+        flex-direction: column;    
+        align-items: center;         
+        gap: 0.75rem;              
+    }
+ 
+    
+#form input {
     padding: 0.5rem 1rem;
     border: none;
     border-radius: 15px;
