@@ -95,12 +95,11 @@ h1 img {
 header h2 {
     font-family: "stolzl", sans-serif;
     font-size: 2rem;
-    height: auto;
     font-weight: 200;
     text-align: center;
     text-transform: uppercase;
     color: whitesmoke;
-    margin-top: 0;
+    margin: auto;
 }
 
 header h3 {
@@ -110,7 +109,7 @@ header h3 {
     font-weight: 200;
     text-align: center;
     color: whitesmoke;
-    margin-top: 0;
+    margin-top: 10px;
 }
 
 .container {
@@ -205,6 +204,9 @@ color:#fbb040;
   font-weight: 400;
   color: #e5e7eb;
   margin-right: 0.25rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.8;
 }
 
 .result-card a {
@@ -218,6 +220,7 @@ color:#fbb040;
   color:#fbb040;
   text-decoration: none;
 }
+
 
 .no-result-card {
   font-size: 1.2rem;
@@ -344,7 +347,6 @@ div .about-info {
 
 /* Mid-sized Media Screens */
 
-
 @media (min-width: 770px) and (max-width: 1024px ) {
 #hero {
         width: 100vw;
@@ -359,6 +361,11 @@ nav ul li {
 header h2 {
         font-size: 1.5rem;
 
+}
+
+header h3 {
+    font-size: 1.2rem;
+    line-height: 2; 
 }
 
 #form {
@@ -456,6 +463,11 @@ header h2 {
         font-size: 1rem;
     }
 
+header h3 {
+    font-size: 0.9rem; 
+    line-height: 2;
+}
+
 #form {
         flex-direction: column;    
         align-items: center;         
@@ -531,12 +543,14 @@ footer {
     background-color: transparent;
     border: transparent;
     border-radius: 0px;
+    box-shadow: none;
 }
 
 .about-info p {
     font-size: 0.875rem;
     padding: 5px 55px;
     background-color: transparent;
+    box-shadow: none;
 }
 
 .about-info p:nth-last-child {
