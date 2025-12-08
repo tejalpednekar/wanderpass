@@ -36,7 +36,7 @@ min-height: 100vh;
     transform: translate(-50%, -50%);
 }
 
-h1, h2, nav ul, other-content {
+h1, h2, nav ul {
     position: relative;
     z-index: 1;
     color: whitesmoke
@@ -96,7 +96,7 @@ header h2 {
     font-family: "stolzl", sans-serif;
     font-size: 2rem;
     height: auto;
-    font-weight: 100;
+    font-weight: 200;
     text-align: center;
     text-transform: uppercase;
     color: whitesmoke;
@@ -144,11 +144,16 @@ header h2 {
     text-transform: uppercase;
 }
 
+#form button:hover {
+color:#fbb040;
+}
+
+
 #results {
   list-style: none;
   padding: 0;
   margin: 2rem auto 3rem;
-  max-width: 480px;
+  max-width: 700px;
   width: 100%;
 }
 
@@ -183,6 +188,7 @@ header h2 {
   font-weight: 200;  
   line-height: 1.5;
   margin-bottom: 0.6rem;
+  text-align: center;
 }
 
 .result-card .card-row strong {
@@ -201,6 +207,22 @@ header h2 {
 .result-card a:hover {
   color:#fbb040;
   text-decoration: none;
+}
+
+.no-result-card {
+  font-size: 1.2rem;
+  font-family: "stolzl", sans-serif;
+  font-weight: 200;  
+  line-height: 1.5;
+  margin-bottom: 0.6rem;
+  text-align: center;
+  background: rgba(6, 6, 14, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(18px);
+  color: #f9fafb;
+  padding: 20px;
 }
 
 .answer {
@@ -296,14 +318,32 @@ div .about-info {
     color: whitesmoke;
     max-width: 768px;
     margin: 20px auto;
-    padding: 20px 50px 10px 10px;
-    background: rgba(6, 6, 14, 0.7);
+    padding: 20px;
+    background: rgba(6, 6, 14, 0.547);
     box-shadow: 0 18px 45px rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(18px);
+    border-radius: 25px;
 }
 
 
 /* Media Screens */
+
+
+@media (max-width: 1024px ) {
+#hero {
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+nav ul li {
+        font-size: 1.5rem;
+    }
+
+header h2 {
+        font-size: 1.5rem;
+
+}
 
 @media (max-width: 768px) {
     #hero {
@@ -357,6 +397,13 @@ header h2 {
 
 .result-card .card-row {
   font-size: 0.8rem;
+}
+
+.no-result-card {
+    display: flex;
+    justify-content: center;
+    font-size: 0.875rem;
+    padding: 20px 8px;
 }
 
 footer {

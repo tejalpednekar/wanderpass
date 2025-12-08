@@ -1,5 +1,7 @@
 let visaData = []
 
+    /* FETCH FUNCTION */
+
 window.addEventListener("load", () => {
 
   fetch("data/data.json")
@@ -12,6 +14,8 @@ window.addEventListener("load", () => {
     })
     .catch(err => console.error("Fetch error:", err))
 
+    /* GLOBALS */
+
   const formEl = document.getElementById("form")
   const inputEl = document.getElementById("searchBox")
   const resultsEl = document.getElementById("results")
@@ -19,6 +23,8 @@ window.addEventListener("load", () => {
 
   formEl.addEventListener("submit", (event) => {
     event.preventDefault()
+
+    /* GO and RESET BUTTON */ 
 
     if (buttonEl.textContent === "Reset") {
       inputEl.value = ""
@@ -33,8 +39,10 @@ window.addEventListener("load", () => {
       item.country.toLowerCase() === query
     )
 
+    /* RESULTS CARD and RESET BUTTON */
+
     if (!match) {
-      resultsEl.innerHTML = `<div class="result-card">No results found for "${inputEl.value}".</div>`
+      resultsEl.innerHTML = `<div class="no-result-card">No results found for "${inputEl.value}".</div>`
       buttonEl.textContent = "Reset"
       return
     }
