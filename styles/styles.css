@@ -36,7 +36,7 @@ min-height: 100vh;
     transform: translate(-50%, -50%);
 }
 
-h1, h2, nav ul {
+h1, h2, h3, nav ul {
     position: relative;
     z-index: 1;
     color: whitesmoke
@@ -99,6 +99,16 @@ header h2 {
     font-weight: 200;
     text-align: center;
     text-transform: uppercase;
+    color: whitesmoke;
+    margin-top: 0;
+}
+
+header h3 {
+    font-family: "stolzl", sans-serif;
+    font-size: 1.5rem;
+    height: auto;
+    font-weight: 200;
+    text-align: center;
     color: whitesmoke;
     margin-top: 0;
 }
@@ -332,10 +342,10 @@ div .about-info {
 }
 
 
-/* Media Screens */
+/* Mid-sized Media Screens */
 
 
-@media (max-width: 1024px ) {
+@media (min-width: 770px) and (max-width: 1024px ) {
 #hero {
         width: 100vw;
         height: 100vh;
@@ -350,8 +360,86 @@ header h2 {
         font-size: 1.5rem;
 
 }
+
+#form {
+        flex-direction: column;    
+        align-items: center;         
+        gap: 1rem;              
+    }
+    
+#form input {
+    padding: 0.9rem 1.3rem;
+    border: none;
+    border-radius: 15px;
+    font-size: 1rem;
+    font-weight: 200;
+    outline: none;
+    width: 200px;
 }
 
+#form button {
+    padding: 0.7rem 1.3rem;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: whitesmoke;
+    font-size: 1.3rem;
+    font-weight: 200;
+}
+
+#results {
+    max-width: 100%;
+    padding: 0 2rem;
+}
+
+.result-card .card-title {
+  font-size: 1.3rem;
+}
+
+.result-card .card-row {
+  font-size: 1rem;
+}
+
+.no-result-card {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    padding: 25px 12px;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-footer p {
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-footer ul li {
+    font-size: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-info p {
+    font-size: 1rem;
+    padding: 5px 55px;
+    background-color: transparent;
+}
+
+.about-info h1 {
+    font-size: 1.8rem;
+    margin-top: 25px;
+}
+
+}
+
+/* Media Screen for Smartphones */
 
 @media (max-width: 768px) {
      #hero {

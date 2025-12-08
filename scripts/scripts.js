@@ -70,11 +70,9 @@ window.addEventListener("load", () => {
       </div>
     `
     buttonEl.textContent = "Reset"
-  })
+  
 })
-
-
-
+})
 
 
 
