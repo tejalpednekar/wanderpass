@@ -550,7 +550,7 @@
     "visaRequired": "Visa required",
     "travelTip": "Dress modestly in public spaces and be mindful of local customs in both cities and smaller towns.",
     "flag": "🇮🇷",
-    "embassyLink": "No Embassy in USA"
+    "embassyLink": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iran-travel-advisory.html"
   },
   {
     "country": "Iraq",
@@ -599,7 +599,7 @@
     "visaRequired": "Visa on arrival",
     "travelTip": "Desert days are hot and nights are cool, so pack layers and carry plenty of water.",
     "flag": "🇯🇴",
-    "embassyLink": "No Embassy Information Found"
+    "embassyLink": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jordan.html"
   },
   {
     "country": "Kazakhstan",
@@ -851,7 +851,7 @@
     "visaRequired": "Visa required",
     "travelTip": "Facilities are limited, so plan accommodation and transport well in advance.",
     "flag": "🇧🇯",
-    "embassyLink": "No Embassy in USA"
+    "embassyLink": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html"
   },
   {
     "country": "Nepal",
@@ -942,7 +942,7 @@
     "visaRequired": "Visa free",
     "travelTip": "Checkpoint delays are possible, so allow extra time when traveling between areas.",
     "flag": "🇵🇸",
-    "embassyLink": "No Embassy in USA"
+    "embassyLink": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html"
   },
   {
     "country": "Panama",
@@ -1089,7 +1089,7 @@
     "visaRequired": "Visa on arrival",
     "travelTip": "Road conditions vary, so plan intercity travel during daylight hours for safety.",
     "flag": "🇸🇱",
-    "embassyLink": "No Embassy in USA"
+    "embassyLink": "https://travel.state.gov/en/international-travel/travel-advisories/sierra-leone.html"
   },
   {
     "country": "Singapore",
