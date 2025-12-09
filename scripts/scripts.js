@@ -75,7 +75,6 @@ window.addEventListener("load", () => {
 })
 
 
-
 /*let visaData;
 
 window.addEventListener("load", () => {
