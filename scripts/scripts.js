@@ -57,16 +57,16 @@ window.addEventListener("load", () => {
           <strong>Visa:</strong> ${match.visaRequired}
         </div>
 
-        <div class="card-row">
-          <strong>Travel Tip:</strong> ${match.travelTip}
+         <div class="card-row">
+          <a href="${match.embassyLink}" target="_blank" rel="noopener noreferrer">
+            Visit official embassy website
+          </a>
         </div>
 
         <div class="card-row">
-          <strong>Embassy Link:</strong>
-          <a href="${match.embassyLink}" target="_blank" rel="noopener noreferrer">
-            Visit official website
-          </a>
+          <strong>Travel Tip:</strong> ${match.travelTip}
         </div>
+       
       </div>
     `
     buttonEl.textContent = "Reset"
